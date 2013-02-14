@@ -1,0 +1,57 @@
+body {
+	background-color: #f4f4f4;
+}
+
+#main {
+	margin-top: 10%;
+}
+
+.thumbnail-row {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+img {
+	width: 100%;
+	height: 90px;
+}
+
+.clickable {
+	/*border-bottom: 3px solid rgb(235, 89, 114);*/
+	/*padding-bottom: 1px;*/
+	cursor: pointer;
+}
+
+.thumbnail-hidden {
+	cursor: default;
+	opacity: 0;
+}
+
+.hidden {
+	opacity: 0;
+ }
+
+ .valign {
+ 	margin-top:30px;
+ }
+
+ .halign {
+ 	margin-left:30px
+ }
+
+ .shadow {
+     text-shadow: 0px 1px 2px #555;
+ }
+
+ .guoguo {
+ 	color: rgb(226, 82, 110);
+ }
+
+ #text-2012 {
+ 	color: rgb(168, 164, 164);
+ }
+
+ #heart {
+ 	font-size: 80px;
+ 	color: rgb(226, 82, 110);
+ 	text-shadow: 9px 9px 10px rgb(146, 131, 131);
+ }
